@@ -96,7 +96,7 @@ python3 -m pytest test_avito_api.py --html=report.html --self-contained-html -v
 
 ## Просмотр результатов
 
-### 12. Просмотр HTML отчета
+### 10. Просмотр HTML отчета
 ```bash
 # Откройте HTML отчет в браузере
 open report.html
